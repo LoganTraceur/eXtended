@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "6.3",
-          "update_link": "https://example.com/addon-0.1.xpi"
+          "update_link": "https://github.com/LoganTraceur/eXtended/raw/main/Versions/nimblex_extended-6.3-fx.xpi"
         },
         {
           "version": "6.4",
