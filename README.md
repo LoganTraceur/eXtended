@@ -60,6 +60,6 @@
 </table>
 </div>
 </div>
-        <a href="https://.com/u/71743966/requestly/firefox/requestly-4.1.6-an%2Bfx.xpi">Click Here to Install Nimblex eXtended </a>
+        <a href="https://github.com/LoganTraceur/eXtended/raw/main/Versions/nimblex_extended-6.3-fx.xpi">Click Here to Install Nimblex eXtended </a>
     </body>
 </html>
