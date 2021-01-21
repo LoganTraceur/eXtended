@@ -8,8 +8,7 @@
         },
         {
           "version": "6.4",
-          "update_link": "http://example.com/addon-0.2.xpi",
-          "update_hash": "sha256:fe93c2156f05f20621df1723b0f39c8ab28cdbeec342efa95535d3abff932096"
+          "update_link": "https://github.com/LoganTraceur/eXtended/raw/main/Versions/nimblex_extended-6.4-fx.xpi"
         }
       ]
     }
