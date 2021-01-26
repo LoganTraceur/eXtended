@@ -25,7 +25,11 @@
         {
           "version": "6.8",
           "update_link": "https://github.com/LoganTraceur/eXtended/raw/main/Versions/nimblex_extended-6.8-fx.xpi"
-        }
+        },
+        {
+          "version": "7.0",
+          "update_link": "https://github.com/LoganTraceur/eXtended/raw/main/Versions/nimblex_extended-7.0-fx.xpi"
+        }        
       ]
     }
   }
