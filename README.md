@@ -4,7 +4,7 @@
 
 # Installation Instructions
 
-1. <a href="https://github.com/LoganTraceur/eXtended/raw/main/Versions/nimblex_extended-7.0-fx.xpi">Click Here to Download Nimblex eXtended</a>
+1. <a href="https://github.com/LoganTraceur/eXtended/raw/main/Versions/nimblex_extended-7.1-fx.xpi">Click Here to Download Nimblex eXtended</a>
 2. Open the file with Firefox
 3. A new Firefox window will appear. Click anywhere in the whitespace
 3. Click the "Add" button when prompted
