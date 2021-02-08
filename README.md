@@ -9,6 +9,6 @@
 3. A new Firefox window will appear. Click anywhere in the whitespace
 3. Click the "Add" button when prompted
 
-![About Image](Photos/AddButton.png)
+ ![About Image](Photos/AddButton.png)
  
  4. Enjoy!
