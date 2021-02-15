@@ -14,3 +14,6 @@
       ![About Image](Photos/AddButton.png)
  
  4. Enjoy!
+<p align="center">
+  <img src="Photos/Install.gif" alt="Install Gif" width="800" />
+</p>
