@@ -1,4 +1,4 @@
-[mylink]: <https://github.com/LoganTraceur/eXtended/raw/main/Versions/nimblex_extended-7.5.1-fx.xpi> "Install Nimblex Extended"
+[mylink]: <https://github.com/LoganTraceur/eXtended/raw/main/Versions/nimblex_extended-7.6-fx.xpi> "Install Nimblex Extended"
 
 # Nimblex eXtended
 
