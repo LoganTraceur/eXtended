@@ -4,6 +4,15 @@
 
 ![About Image](Photos/Nimblex%20eXtended%20About.png)
 
+# Testimonials  
+> ⭐⭐⭐⭐⭐ This is going to save me so much time
+
+> ⭐⭐⭐⭐⭐ God I can see us having this as a standard for all of our devs
+
+> ⭐⭐⭐⭐⭐ This is big brain
+
+> ⭐⭐⭐⭐⭐ The instance favouriting function is really fantastic and basically worth to have just for that component alone.
+
 # Features
 ### 1. Save Time with Keyboard Shortcuts to open design sessions, new records and tabular reports
 ### 2. Right Click Context Menu allows you to navigate in Nimblex like a ninja
@@ -26,15 +35,5 @@
 <p align="center">
   <img src="Photos/Install.gif" alt="Install Gif" width="800" />
 </p>
-
-# Testimonials  
-> ⭐⭐⭐⭐⭐ This is going to save me so much time
-
-> ⭐⭐⭐⭐⭐ God I can see us having this as a standard for all of our devs
-
-> ⭐⭐⭐⭐⭐ This is big brain
-
-> ⭐⭐⭐⭐⭐ The instance favouriting function is really fantastic and basically worth to have just for that component alone.
-
 
 ![Footer Image](Photos/Nimblex%20eXtended%20Footer.png)
