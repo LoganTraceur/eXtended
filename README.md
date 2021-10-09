@@ -26,3 +26,12 @@
 <p align="center">
   <img src="Photos/Install.gif" alt="Install Gif" width="800" />
 </p>
+
+# Testimonials  
+> ⭐⭐⭐⭐⭐ This is going to save me so much time
+
+> ⭐⭐⭐⭐⭐ God I can see us having this as a standard for all of our devs
+
+> ⭐⭐⭐⭐⭐ This is big brain
+
+> ⭐⭐⭐⭐⭐ The instance favouriting function is really fantastic and basically worth to have just for that component alone.
