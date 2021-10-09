@@ -35,3 +35,6 @@
 > ⭐⭐⭐⭐⭐ This is big brain
 
 > ⭐⭐⭐⭐⭐ The instance favouriting function is really fantastic and basically worth to have just for that component alone.
+
+
+![Footer Image](Photos/Nimblex%20eXtended%20Footer.png)
