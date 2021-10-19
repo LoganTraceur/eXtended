@@ -15,18 +15,47 @@
 
 # Features
 ### 1. Save Time with Keyboard Shortcuts to open design sessions, new records and tabular reports
+<details>
+  <summary>Click to expand!</summary>
+      
 ![Keyboard Shortcuts](Photos/Keyboard%20Shortcuts.gif)
+</details>
+
 ### 2. Right Click Context Menu allows you to navigate in Nimblex like a ninja
+<details>
+  <summary>Click to expand!</summary>
+      
 ![Context Menu](Photos/Context%20Menu.gif)
+</details>
+
 ### 3. Quick Cluster Login allows you to spend less time logging in and more time being a professional boss
+<details>
+  <summary>Click to expand!</summary>
+      
 ![Cluster Login](Photos/Cluster%20Login.gif)
+</details>
+
 ### 4. Auto Redirect After Cluster Login (Finally the links clients send work for us first time!)
+<details>
+  <summary>Click to expand!</summary>
+      
 ![Auto Redirect](Photos/Auto%20Redirect.gif)
+</details>
+
 ### 5. Favourite your most used systems
 #### Link to Quickly Log into your favourite systems
+<details>
+  <summary>Click to expand!</summary>
+      
 ![Quick Log In](Photos/Quick%20Log%20In.gif)
+</details>
+
 #### Navigate to the same eform in a different instance (Perfect for CORE systems)
+<details>
+  <summary>Click to expand!</summary>
+      
 ![Same eform Different Instance](Photos/Same%20eform%20Different%20Instance.gif)
+</details>
 
 # Installation Instructions
 
