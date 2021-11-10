@@ -1,4 +1,5 @@
 [mylink]: <https://github.com/LoganTraceur/eXtended/raw/main/Versions/nimblex_extended-8.5-fx.xpi> "Install Nimblex Extended"
+[chromeStoreURL]: <https://chrome.google.com/webstore/detail/nimblex-extended/gfaekhodgjnichofejcepjilhnmdfnco?hl=en-GB&authuser=0> "Install Nimblex Extended"
 
 # Nimblex eXtended
 
@@ -59,7 +60,7 @@
 
 # Installation Instructions
 ### Chome and Edge
-Head to the [Chrome Web Store][https://chrome.google.com/webstore/detail/nimblex-extended/gfaekhodgjnichofejcepjilhnmdfnco?hl=en-GB&authuser=0]
+Head to the [Chrome Web Store][chromeStoreURL] to install Nimblex Extended
 ### Firefox
 1. [Click Here to Download Nimblex eXtended][mylink]
 2. Open the file with Firefox
