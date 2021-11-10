@@ -58,7 +58,9 @@
 </details>
 
 # Installation Instructions
-
+### Chome and Edge
+Head to the [Chrome Web Store][https://chrome.google.com/webstore/detail/nimblex-extended/gfaekhodgjnichofejcepjilhnmdfnco?hl=en-GB&authuser=0]
+### Firefox
 1. [Click Here to Download Nimblex eXtended][mylink]
 2. Open the file with Firefox
 3. A new Firefox window will appear. Click anywhere in the whitespace
